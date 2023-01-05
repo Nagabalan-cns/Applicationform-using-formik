@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Applicationform-using-formik/static/css/main.d69c4d33.css",
+    "main.js": "/Applicationform-using-formik/static/js/main.de539625.js",
+    "static/js/787.cdfe00ef.chunk.js": "/Applicationform-using-formik/static/js/787.cdfe00ef.chunk.js",
+    "index.html": "/Applicationform-using-formik/index.html",
+    "main.d69c4d33.css.map": "/Applicationform-using-formik/static/css/main.d69c4d33.css.map",
+    "main.de539625.js.map": "/Applicationform-using-formik/static/js/main.de539625.js.map",
+    "787.cdfe00ef.chunk.js.map": "/Applicationform-using-formik/static/js/787.cdfe00ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69c4d33.css",
+    "static/js/main.de539625.js"
+  ]
+}
